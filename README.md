@@ -1,2 +1,2 @@
 # Simple-Sudoku
-A simple mobile game written in java that supports multiple platforms.
+A minimalistic designed sudoku mobile game written in Kotlin that supports multiple platforms.
